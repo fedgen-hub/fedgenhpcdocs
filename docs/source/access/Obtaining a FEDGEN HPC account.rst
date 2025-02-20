@@ -14,7 +14,7 @@ To request an account, you must be one of the following;
 
 To Proceed with the account request procedure having fulfilled the
 criteria described above; kindly go to the `Account
-Registration <https://fedgen.atlassian.net/servicedesk/customer/user/login?destination=portals>`__
+Registration <https://fedgenhpc.atlassian.net/servicedesk/customer/user/login?destination=portals>`__
 Page
 
 If you have a Research Team and would like group accounts and group Storage quotas, kindly use the same Registration link above specifying your needs. This should be done by the Head of Department or the Principal Investigator.
