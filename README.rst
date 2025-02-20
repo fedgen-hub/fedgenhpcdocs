@@ -22,7 +22,7 @@ code examples are provided under the [MIT](https://opensource.org/licenses/MIT) 
 Locally building the HTML for testing
 =========================================
 ```
-git clone https://github.com/toluromio/fedgenhpc/fedgenhpc.git
+git clone https://github.com/fedgenworkgroup/fedgenhpcdocs/fedgenhpc.git
 cd fedgenhpc
 virtualenv venv
 source venv/bin/activate
