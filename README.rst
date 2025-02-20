@@ -23,7 +23,7 @@ Locally building the HTML for testing
 =========================================
 ```
 git clone https://github.com/fedgenworkgroup/fedgenhpcdocs/fedgenhpcdocs.git
-cd fedgenhpc
+cd fedgenhpcdocs
 virtualenv venv
 source venv/bin/activate
 pip install sphinx
