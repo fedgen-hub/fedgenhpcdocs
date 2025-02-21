@@ -41,10 +41,10 @@ load the conda module:
 
 .. code-block:: python
 
-  *$ which python*
-  */share/apps/rockylinux/miniconda/X.Y.Z/bin/python*
-  *$ python -V*
-  *Python 3.X.Y*
+  $ which python
+  /share/apps/rockylinux/miniconda/X.Y.Z/bin/python
+  $ python -V
+  Python 3.X.Y
 
 You will see a confirmation message when the module is loaded.
 
