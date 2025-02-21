@@ -81,8 +81,9 @@ Check out our `website <http://www.fedgen.net>`_ for further information.
 .. toctree::
    :caption: APPLICATIONS
 
+   job_scheduling/Applications
    job_scheduling/Miniconda on FEDGEN HPC
    others/Jupyter
-   job_scheduling/Applications
+   
    
 
