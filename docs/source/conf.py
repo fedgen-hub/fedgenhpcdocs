@@ -3,8 +3,8 @@
 # -- Project information
 
 project = 'FEDGEN HPC User Guide'
-copyright = '2024, Graziella'
-author = 'Graziella'
+copyright = '2025, The FEDGEN Team'
+author = 'RT'
 
 release = '0.1'
 version = '0.1.0'
