@@ -1,4 +1,4 @@
-Miniconda on FEDGEN HPC
+**Miniconda on FEDGEN HPC**
 ---------------------------
 
 We have a centralized installation of Miniconda on the FEDGEN HPC
