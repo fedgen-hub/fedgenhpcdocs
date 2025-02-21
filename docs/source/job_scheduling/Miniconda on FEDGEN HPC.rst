@@ -1,5 +1,5 @@
 Miniconda on FEDGEN HPC
-------------------------
+---------------------------
 
 We have a centralized installation of Miniconda on the FEDGEN HPC
 Cluster. Miniconda is a free open source minimal installer for Conda. It
