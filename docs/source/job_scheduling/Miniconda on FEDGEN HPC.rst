@@ -67,7 +67,7 @@ environment.
 Researchers can create other environments in their Home Space but We do
 not recommend it.
 
-.. _section-1:
+
 
 **Listing environments**
 ^^^^^^^^^^^^^^^^^^^^^^^^
@@ -128,7 +128,7 @@ environment.
 
 *(package list redacted)*
 
-.. _section-2:
+
 
 **In a Job Script**
 ====================
